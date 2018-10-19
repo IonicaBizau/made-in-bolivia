@@ -56,7 +56,8 @@
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -949,6 +950,129 @@
               "[@kplian](https://github.com/kplian)/[**sis_empresas**](https://github.com/kplian/sis_empresas)",
               "sistema para envio de publicidad",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "236",
+              "[@carlitux](https://github.com/carlitux)/[**deoplete-ternjs**](https://github.com/carlitux/deoplete-ternjs)",
+              "deoplete.nvim source for javascript",
+              ""
+            ],
+            [
+              "18",
+              "[@Snifer](https://github.com/Snifer)/[**GPT**](https://github.com/Snifer/GPT)",
+              "Gadget Pentesting Tool Scripts",
+              "[:arrow_upper_right:](http://www.sniferl4bs.com)"
+            ],
+            [
+              "11",
+              "[@Snifer](https://github.com/Snifer)/[**SniferL4bs**](https://github.com/Snifer/SniferL4bs)",
+              "Todos los scripts y locuras del Blog SniferL4bs que sean desarrollados vendran en esta pequeña sección dedicada",
+              ""
+            ],
+            [
+              "6",
+              "[@carlitux](https://github.com/carlitux)/[**djbuild**](https://github.com/carlitux/djbuild)",
+              "Buildout recipe based on djangorecipe, ",
+              ""
+            ],
+            [
+              "6",
+              "[@arielvega](https://github.com/arielvega)/[**python-mobile**](https://github.com/arielvega/python-mobile)",
+              "A python module that handles communication between your app and mobile devices",
+              "[:arrow_upper_right:](http://wiki.uremix.org/wiki/python-mobile)"
+            ],
+            [
+              "3",
+              "[@nely](https://github.com/nely)/[**solmujeres**](https://github.com/nely/solmujeres)",
+              "Código fuente de solmujeres.org",
+              "[:arrow_upper_right:](http://solmujeres.org)"
+            ],
+            [
+              "3",
+              "[@carlitux](https://github.com/carlitux)/[**denite-cool-grep**](https://github.com/carlitux/denite-cool-grep)",
+              "Better grep source for denite",
+              ""
+            ],
+            [
+              "2",
+              "[@hmen89](https://github.com/hmen89)/[**odoo-addons**](https://github.com/hmen89/odoo-addons)",
+              "Odoo additional addons",
+              ""
+            ],
+            [
+              "2",
+              "[@nnrcschmdt](https://github.com/nnrcschmdt)/[**congreso**](https://github.com/nnrcschmdt/congreso)",
+              "A simple congress/conference management system in Django.",
+              ""
+            ],
+            [
+              "2",
+              "[@nnrcschmdt](https://github.com/nnrcschmdt)/[**geistesblitze**](https://github.com/nnrcschmdt/geistesblitze)",
+              "a simple Flask application",
+              ""
+            ],
+            [
+              "2",
+              "[@nnrcschmdt](https://github.com/nnrcschmdt)/[**festival**](https://github.com/nnrcschmdt/festival)",
+              "A simple installfest management system in Django",
+              ""
+            ],
+            [
+              "2",
+              "[@josuemontano](https://github.com/josuemontano)/[**python_intro**](https://github.com/josuemontano/python_intro)",
+              "Introducción a la computación científica con Python",
+              ""
+            ],
+            [
+              "2",
+              "[@josuemontano](https://github.com/josuemontano)/[**API-platform**](https://github.com/josuemontano/API-platform)",
+              "Full stack pyramid sample project ready to deploy with dokku",
+              ""
+            ],
+            [
+              "2",
+              "[@poiesisconsulting](https://github.com/poiesisconsulting)/[**openerp-restaurant**](https://github.com/poiesisconsulting/openerp-restaurant)",
+              "OpenERP addons for restaurant",
+              ""
+            ],
+            [
+              "2",
+              "[@carlitux](https://github.com/carlitux)/[**gaebuild**](https://github.com/carlitux/gaebuild)",
+              "Buildout recipe based on djbuild for google app engine,",
+              ""
+            ],
+            [
+              "2",
+              "[@josben](https://github.com/josben)/[**annie**](https://github.com/josben/annie)",
+              "django 1.6 + django-bootstrap-toolkit + django-userena",
+              ""
+            ],
+            [
+              "2",
+              "[@carlitux](https://github.com/carlitux)/[**deoplete-flow**](https://github.com/carlitux/deoplete-flow)",
+              "deoplete.nvim source for flowtype",
+              ""
+            ],
+            [
+              "2",
+              "[@arielvega](https://github.com/arielvega)/[**uremix-app-developer…**](https://github.com/arielvega/uremix-app-developer-helper)",
+              "Uremix's helper code",
+              "[:arrow_upper_right:](http://wiki.uremix.org/wiki/UADH)"
             ]
           ]
         }
