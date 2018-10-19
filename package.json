@@ -57,7 +57,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1073,6 +1074,165 @@
               "[@arielvega](https://github.com/arielvega)/[**uremix-app-developer…**](https://github.com/arielvega/uremix-app-developer-helper)",
               "Uremix's helper code",
               "[:arrow_upper_right:](http://wiki.uremix.org/wiki/UADH)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "46",
+              "[@mordaroso](https://github.com/mordaroso)/[**guard-motion**](https://github.com/mordaroso/guard-motion)",
+              "Guard::Motion automatically run your RubyMotion specs (much like autotest)",
+              ""
+            ],
+            [
+              "45",
+              "[@mordaroso](https://github.com/mordaroso)/[**rubymotion-keychain-…**](https://github.com/mordaroso/rubymotion-keychain-example)",
+              "Example RubyMotion App to show how to use the Keychain",
+              ""
+            ],
+            [
+              "36",
+              "[@mordaroso](https://github.com/mordaroso)/[**rubymotion-settings**](https://github.com/mordaroso/rubymotion-settings)",
+              "Example RubyMotion App to show how to create a settings view",
+              ""
+            ],
+            [
+              "13",
+              "[@mordaroso](https://github.com/mordaroso)/[**guard-passenger**](https://github.com/mordaroso/guard-passenger)",
+              "Guard::Passenger automatically restarts passenger when needed",
+              ""
+            ],
+            [
+              "10",
+              "[@carakan](https://github.com/carakan)/[**pronto-credo**](https://github.com/carakan/pronto-credo)",
+              "pronto runner for credo, a code analysis tool for Elixir programming language",
+              ""
+            ],
+            [
+              "8",
+              "[@owen2345](https://github.com/owen2345)/[**Camaleon-CMS-Sample**](https://github.com/owen2345/Camaleon-CMS-Sample)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@carakan](https://github.com/carakan)/[**j_tiny_mce**](https://github.com/carakan/j_tiny_mce)",
+              "tiny mce whith jquery and paperclip for upload pictures",
+              ""
+            ],
+            [
+              "6",
+              "[@owen2345](https://github.com/owen2345)/[**camaleon_export_impo…**](https://github.com/owen2345/camaleon_export_import)",
+              "Permit to export and import the data of Camaleon CMS",
+              ""
+            ],
+            [
+              "4",
+              "[@mordaroso](https://github.com/mordaroso)/[**carabiner**](https://github.com/mordaroso/carabiner)",
+              "Rubymotion wrapper for easy access to the keychain",
+              ""
+            ],
+            [
+              "3",
+              "[@owen2345](https://github.com/owen2345)/[**camaleon_oauth**](https://github.com/owen2345/camaleon_oauth)",
+              "This is a plugin for Camaleon CMS that support oauth integration",
+              ""
+            ],
+            [
+              "3",
+              "[@mordaroso](https://github.com/mordaroso)/[**guard-ego**](https://github.com/mordaroso/guard-ego)",
+              "Alter Ego for Guard",
+              ""
+            ],
+            [
+              "3",
+              "[@owen2345](https://github.com/owen2345)/[**camaleon-cms-seo**](https://github.com/owen2345/camaleon-cms-seo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@owen2345](https://github.com/owen2345)/[**camaleon-post-order-…**](https://github.com/owen2345/camaleon-post-order-plugin)",
+              "Camaleon Gem that permit you to reorder your contents",
+              ""
+            ],
+            [
+              "2",
+              "[@owen2345](https://github.com/owen2345)/[**authie**](https://github.com/owen2345/authie)",
+              "Authie gem adapted for rails 4 ",
+              ""
+            ],
+            [
+              "2",
+              "[@owen2345](https://github.com/owen2345)/[**cama_subscriber**](https://github.com/owen2345/cama_subscriber)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@owen2345](https://github.com/owen2345)/[**cama_contact_form**](https://github.com/owen2345/cama_contact_form)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@carakan](https://github.com/carakan)/[**like_comments**](https://github.com/carakan/like_comments)",
+              "plugin for enabled like and comments for objects, like facebook",
+              ""
+            ],
+            [
+              "2",
+              "[@rolo555](https://github.com/rolo555)/[**Jewelry**](https://github.com/rolo555/Jewelry)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@carakan](https://github.com/carakan)/[**scribe_polymorfic**](https://github.com/carakan/scribe_polymorfic)",
+              "A simple plugin that allows to keep track of the models activity, this a polymorfhic activity tracker",
+              ""
+            ],
+            [
+              "2",
+              "[@rolo555](https://github.com/rolo555)/[**consulta_pediatrica**](https://github.com/rolo555/consulta_pediatrica)",
+              "Sistema para la consulta pediátrica",
+              ""
+            ],
+            [
+              "2",
+              "[@carakan](https://github.com/carakan)/[**atix**](https://github.com/carakan/atix)",
+              "Repositorio de tutorial escrito en la revista atix",
+              ""
+            ],
+            [
+              "2",
+              "[@rolo555](https://github.com/rolo555)/[**Pediatria**](https://github.com/rolo555/Pediatria)",
+              "Colsultorio Pediatrico",
+              ""
+            ],
+            [
+              "2",
+              "[@Walsen](https://github.com/Walsen)/[**gconfpkg2dirs**](https://github.com/Walsen/gconfpkg2dirs)",
+              "Gentoo Portage Configuration Files to Directories",
+              ""
+            ],
+            [
+              "2",
+              "[@carakan](https://github.com/carakan)/[**contacts**](https://github.com/carakan/contacts)",
+              "Simple site for manage contacts.",
+              ""
             ]
           ]
         }
