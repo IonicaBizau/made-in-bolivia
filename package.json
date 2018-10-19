@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -552,6 +553,27 @@
               "2",
               "[@gustof1](https://github.com/gustof1)/[**paraba**](https://github.com/gustof1/paraba)",
               "webs app",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@hiro2233](https://github.com/hiro2233)/[**tachus_pi**](https://github.com/hiro2233/tachus_pi)",
+              "Tachus PI compute pi world record. Source from https://bellard.org/pi/pi2700e9/tpi.html",
               ""
             ]
           ]
