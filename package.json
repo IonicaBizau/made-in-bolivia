@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -181,6 +182,327 @@
               "[@boriscy](https://github.com/boriscy)/[**motoEx**](https://github.com/boriscy/motoEx)",
               "Herramienta fácil para importar de datos desde hoja electrónicas",
               "[:arrow_upper_right:](http://boriscy.github.com/motoEx/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@alvareztech](https://github.com/alvareztech)/[**BottomNavigationView…**](https://github.com/alvareztech/BottomNavigationViewSample)",
+              "BottomNavigationView Sample",
+              "[:arrow_upper_right:](https://alvarez.tech/labs/android-bottom-navigation-view)"
+            ],
+            [
+              "12",
+              "[@alvareztech](https://github.com/alvareztech)/[**android-facebook-log…**](https://github.com/alvareztech/android-facebook-login)",
+              "Demo Facebook Login Android Application",
+              "[:arrow_upper_right:](https://alvarez.tech)"
+            ],
+            [
+              "10",
+              "[@alvareztech](https://github.com/alvareztech)/[**firebase-ui-android-…**](https://github.com/alvareztech/firebase-ui-android-auth-phone)",
+              "Demo FirebaseUI Android phone authentication",
+              "[:arrow_upper_right:](https://alvarez.tech)"
+            ],
+            [
+              "8",
+              "[@Gusn8](https://github.com/Gusn8)/[**CodeLab-Kotlin**](https://github.com/Gusn8/CodeLab-Kotlin)",
+              "Ejemplo de unión de código java con kotlin",
+              ""
+            ],
+            [
+              "8",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Views_II**](https://github.com/Gusn8/StudyJam_II_Views_II)",
+              "Ejemplo 2 Sobre Vistas.",
+              ""
+            ],
+            [
+              "8",
+              "[@alvareztech](https://github.com/alvareztech)/[**Pokedex**](https://github.com/alvareztech/Pokedex)",
+              "An application that uses Retrofit to consume the Pokeapi API, in addition to loading images with Glide.",
+              "[:arrow_upper_right:](https://alvarez.tech/labs/android-retrofit-pokedex)"
+            ],
+            [
+              "7",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Animatio…**](https://github.com/Gusn8/StudyJam_II_Animations)",
+              "Repositorio de animaciones básicas a través de XML con uso de la clase Animation.",
+              ""
+            ],
+            [
+              "6",
+              "[@alvareztech](https://github.com/alvareztech)/[**android-crud-room-mv…**](https://github.com/alvareztech/android-crud-room-mvp)",
+              "Android CRUD MVP Demo",
+              "[:arrow_upper_right:](https://alvarez.tech)"
+            ],
+            [
+              "6",
+              "[@alvareztech](https://github.com/alvareztech)/[**TowerOfHanoi**](https://github.com/alvareztech/TowerOfHanoi)",
+              "Graphical solution to the Towers of Hanoi from 1 to 8 pieces in Java.",
+              "[:arrow_upper_right:](http://alvarez.tech/solucion-animada-torres-de-hanoi-java/)"
+            ],
+            [
+              "6",
+              "[@andres-vasquez](https://github.com/andres-vasquez)/[**LegoTbbTIot**](https://github.com/andres-vasquez/LegoTbbTIot)",
+              "Android App for Firebase Lego Codelab",
+              ""
+            ],
+            [
+              "5",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_CustomVi…**](https://github.com/Gusn8/StudyJam_II_CustomViews)",
+              "Repositorio de ejemplo personalizando algunas vistas.",
+              ""
+            ],
+            [
+              "5",
+              "[@andres-vasquez](https://github.com/andres-vasquez)/[**AndroidArchTodo**](https://github.com/andres-vasquez/AndroidArchTodo)",
+              "Android Architecture Example: TODO",
+              ""
+            ],
+            [
+              "5",
+              "[@alvareztech](https://github.com/alvareztech)/[**EjemploFCM**](https://github.com/alvareztech/EjemploFCM)",
+              "Proyecto del video de Firebase Cloud Messaging",
+              "[:arrow_upper_right:](https://alvarez.tech)"
+            ],
+            [
+              "4",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Views**](https://github.com/Gusn8/StudyJam_II_Views)",
+              "Ejemplo 1 Study Jam",
+              ""
+            ],
+            [
+              "4",
+              "[@viniciusDSL](https://github.com/viniciusDSL)/[**CameraView**](https://github.com/viniciusDSL/CameraView)",
+              "Android Camera Library to use a camera like a simple widget",
+              ""
+            ],
+            [
+              "4",
+              "[@viniciusDSL](https://github.com/viniciusDSL)/[**Google-I-O-extended**](https://github.com/viniciusDSL/Google-I-O-extended)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@andres-vasquez](https://github.com/andres-vasquez)/[**android-mvvm-attenda…**](https://github.com/andres-vasquez/android-mvvm-attendance)",
+              "Codelab with android Architecture Components",
+              ""
+            ],
+            [
+              "4",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Java_2**](https://github.com/Gusn8/StudyJam_II_Java_2)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@alvareztech](https://github.com/alvareztech)/[**FirebaseGoogleSignIn…**](https://github.com/alvareztech/FirebaseGoogleSignInAndroid)",
+              "Google Sign-In for Android in Firebase",
+              ""
+            ],
+            [
+              "4",
+              "[@timoteoponce](https://github.com/timoteoponce)/[**gitconfig4j**](https://github.com/timoteoponce/gitconfig4j)",
+              "Configuration management of git-like properties for Java (git gitconfig java). ",
+              "[:arrow_upper_right:](http://timoteoponce.github.com/gitconfig4j/)"
+            ],
+            [
+              "3",
+              "[@alvareztech](https://github.com/alvareztech)/[**GoogleSignInAndroid**](https://github.com/alvareztech/GoogleSignInAndroid)",
+              "Google Sign-In for Android.",
+              "[:arrow_upper_right:](http://alvarez.tech/android-log-in-con-google/)"
+            ],
+            [
+              "3",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Java_1**](https://github.com/Gusn8/StudyJam_II_Java_1)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@alvareztech](https://github.com/alvareztech)/[**ChatBluetooth**](https://github.com/alvareztech/ChatBluetooth)",
+              "Un chat haciendo uso de la API Bluetooth basado en la aplicación de ejemplo de la documentación oficial de Android.",
+              ""
+            ],
+            [
+              "2",
+              "[@viniciusDSL](https://github.com/viniciusDSL)/[**One-Cachito**](https://github.com/viniciusDSL/One-Cachito)",
+              "Android videogame based on traditional Bolivian game \"Cacho Alalay\"",
+              ""
+            ],
+            [
+              "2",
+              "[@viniciusDSL](https://github.com/viniciusDSL)/[**NavigationView-Demo**](https://github.com/viniciusDSL/NavigationView-Demo)",
+              "Simple demo of NavigationView android widget",
+              ""
+            ],
+            [
+              "2",
+              "[@andres-vasquez](https://github.com/andres-vasquez)/[**curso-android-2016**](https://github.com/andres-vasquez/curso-android-2016)",
+              "Ejemplos del Curso Android Ine 2016",
+              ""
+            ],
+            [
+              "2",
+              "[@alvareztech](https://github.com/alvareztech)/[**SimiDic**](https://github.com/alvareztech/SimiDic)",
+              "Diccionario de lenguas para dispositivos Android.",
+              ""
+            ],
+            [
+              "2",
+              "[@timoteoponce](https://github.com/timoteoponce)/[**totai3capas**](https://github.com/timoteoponce/totai3capas)",
+              "aplicacion 3 capas",
+              ""
+            ],
+            [
+              "2",
+              "[@viniciusDSL](https://github.com/viniciusDSL)/[**AngryTux**](https://github.com/viniciusDSL/AngryTux)",
+              "Example with andengine of a Simple Level Game for Android",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_CustomLi…**](https://github.com/Gusn8/StudyJam_II_CustomListViews)",
+              "Ejemplo basico de uso de ListView antes de ingresar al manejo de RecyclerView.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**SJ_A_1_17_Java_3_Int…**](https://github.com/Gusn8/SJ_A_1_17_Java_3_Intents)",
+              "Ejemplo básico de manipulación de Intents dentro una aplicación Android.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**PokeLitho**](https://github.com/Gusn8/PokeLitho)",
+              "Demo básica de creación de interfaces de usuario con Litho de Facebook.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Multimed…**](https://github.com/Gusn8/StudyJam_II_Multimedia_Insultador)",
+              "Simple demo con las características de SoundPool que me permite reproducir sonidos cortos.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**SJ_A_1_17_Java_2**](https://github.com/Gusn8/SJ_A_1_17_Java_2)",
+              "Ejemplo básico de integración de Java en una aplicación Android.",
+              ""
+            ],
+            [
+              "2",
+              "[@alvareztech](https://github.com/alvareztech)/[**CNA-Friends**](https://github.com/alvareztech/CNA-Friends)",
+              "Android networking course demo application. Facebook Fresco, RecyclerView.",
+              "[:arrow_upper_right:](https://alvarez.tech)"
+            ],
+            [
+              "2",
+              "[@timoteoponce](https://github.com/timoteoponce)/[**paginator**](https://github.com/timoteoponce/paginator)",
+              "Generic stateless paginator component for Java",
+              "[:arrow_upper_right:](http://timoteoponce.github.com/paginator/)"
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Multimed…**](https://github.com/Gusn8/StudyJam_II_Multimedia_Player)",
+              "Simple demo para mostrar las características de la clase MediaPlayer para reproducción de sonidos largos.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**kotlin-codelab**](https://github.com/Gusn8/kotlin-codelab)",
+              "Ejemplo impartido en un CodeLab del Google I/O Extended Cochabamba 2017.",
+              ""
+            ],
+            [
+              "2",
+              "[@timoteoponce](https://github.com/timoteoponce)/[**portable-AddressBook**](https://github.com/timoteoponce/portable-AddressBook)",
+              "MacOs like AddressBook application written in Java ",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Persiste…**](https://github.com/Gusn8/StudyJam_II_Persistencia)",
+              "Ejemplo Basico de uso de SharedPreferences, Archivos internos y externos.",
+              ""
+            ],
+            [
+              "2",
+              "[@tiveor](https://github.com/tiveor)/[**android-advanced**](https://github.com/tiveor/android-advanced)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Intents**](https://github.com/Gusn8/StudyJam_II_Intents)",
+              "Uso de Intents explícitos e implícitos.",
+              ""
+            ],
+            [
+              "2",
+              "[@tiveor](https://github.com/tiveor)/[**android-intermediate**](https://github.com/tiveor/android-intermediate)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**SJ_A_1_17_Views_2**](https://github.com/Gusn8/SJ_A_1_17_Views_2)",
+              "Segundo demo del Curso de Android - Android Development for Beginners",
+              ""
+            ],
+            [
+              "2",
+              "[@tonny](https://github.com/tonny)/[**slide**](https://github.com/tonny/slide)",
+              "implementar patrones de disenio en los Slides",
+              "[:arrow_upper_right:](Sildes)"
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**StudyJam_II_Multimed…**](https://github.com/Gusn8/StudyJam_II_Multimedia_Remix)",
+              "Demo de uso de MediaPlayer y SoundPool, implementado en una aplicación con sonidos y remixes de sonidos con la frase 'hit' del momento en Bolivia: \"Pero no es que te ralles asi\".",
+              ""
+            ],
+            [
+              "2",
+              "[@tonny](https://github.com/tonny)/[**patternsinjava**](https://github.com/tonny/patternsinjava)",
+              "This is a collection of patterns designs examples in java",
+              "[:arrow_upper_right:](http://e-quipus.daniellagarcia.com/pg/groups/47/arquitectura-de-software/)"
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**VisionAPIdemo**](https://github.com/Gusn8/VisionAPIdemo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@robertop87](https://github.com/robertop87)/[**sf-calendario**](https://github.com/robertop87/sf-calendario)",
+              "ejercicio de calendario",
+              ""
+            ],
+            [
+              "2",
+              "[@robertop87](https://github.com/robertop87)/[**solid-course**](https://github.com/robertop87/solid-course)",
+              "Source code for the SOLID principles course",
+              ""
+            ],
+            [
+              "2",
+              "[@Gusn8](https://github.com/Gusn8)/[**SJ_A_1_17_Java_1**](https://github.com/Gusn8/SJ_A_1_17_Java_1)",
+              "Ejemplo básico de integración de Java en una aplicación Android.",
+              ""
             ]
           ]
         }
