@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -502,6 +503,33 @@
               "2",
               "[@Gusn8](https://github.com/Gusn8)/[**SJ_A_1_17_Java_1**](https://github.com/Gusn8/SJ_A_1_17_Java_1)",
               "Ejemplo básico de integración de Java en una aplicación Android.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "14",
+              "[@MyAPKapp](https://github.com/MyAPKapp)/[**VistaUIFramework**](https://github.com/MyAPKapp/VistaUIFramework)",
+              "All possibilities of WinAPI into .NET Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@uialberto](https://github.com/uialberto)/[**asm**](https://github.com/uialberto/asm)",
+              "ASM. Agente Salvavidas de Mascotas. Aplicación web para gestionar el proceso de publicación y adopción de mascotas.",
               ""
             ]
           ]
