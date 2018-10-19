@@ -39,5 +39,152 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-bolivia/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13",
+              "[@boriscy](https://github.com/boriscy)/[**enano**](https://github.com/boriscy/enano)",
+              "Enano is a small CMS written in Ext JS and Ruby on Rails for the backend with and cool FileManager",
+              ""
+            ],
+            [
+              "11",
+              "[@boriscy](https://github.com/boriscy)/[**backbone-rivetsjs**](https://github.com/boriscy/backbone-rivetsjs)",
+              "Two way data binding example for Backbone.js with rivets.js",
+              "[:arrow_upper_right:](http://boriscy.github.com/backbone-rivetsjs)"
+            ],
+            [
+              "9",
+              "[@boriscy](https://github.com/boriscy)/[**grider**](https://github.com/boriscy/grider)",
+              "jQuery plugin to enable calculations and modifications in a table with data input",
+              "[:arrow_upper_right:](http://boriscy.github.com/grider/)"
+            ],
+            [
+              "6",
+              "[@luixaviles](https://github.com/luixaviles)/[**curso-angular**](https://github.com/luixaviles/curso-angular)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@kapit4n](https://github.com/kapit4n)/[**react-seller**](https://github.com/kapit4n/react-seller)",
+              "Web environment to register products, sell products, and handler the stock of the products. ReactJS",
+              "[:arrow_upper_right:](https://kapit4n.github.io/react-seller/)"
+            ],
+            [
+              "5",
+              "[@boriscy](https://github.com/boriscy)/[**almacen**](https://github.com/boriscy/almacen)",
+              "Sistema de control de almacenes",
+              ""
+            ],
+            [
+              "4",
+              "[@paolo](https://github.com/paolo)/[**smithy-describe**](https://github.com/paolo/smithy-describe)",
+              " A simple describe like syntax for testing meteor packages with Tinytest",
+              ""
+            ],
+            [
+              "3",
+              "[@severo](https://github.com/severo)/[**well-formed**](https://github.com/severo/well-formed)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@carlos-olivera](https://github.com/carlos-olivera)/[**reactioncommerce-jso…**](https://github.com/carlos-olivera/reactioncommerce-json-importer)",
+              "JSON parser and importer for Reactioncommerce",
+              ""
+            ],
+            [
+              "3",
+              "[@juliosguz](https://github.com/juliosguz)/[**initial-layout**](https://github.com/juliosguz/initial-layout)",
+              "Initial layout with Gulp",
+              ""
+            ],
+            [
+              "3",
+              "[@kapit4n](https://github.com/kapit4n)/[**mockupero**](https://github.com/kapit4n/mockupero)",
+              "Collaborative platform to manage mockups, angular 1.3",
+              "[:arrow_upper_right:](https://kapit4n.github.io/mockupero/)"
+            ],
+            [
+              "2",
+              "[@boriscy](https://github.com/boriscy)/[**bonsaiweb**](https://github.com/boriscy/bonsaiweb)",
+              "Web site for bonsaiERP",
+              "[:arrow_upper_right:](bonsaierp.com)"
+            ],
+            [
+              "2",
+              "[@chitopolo](https://github.com/chitopolo)/[**React-Node-Starter**](https://github.com/chitopolo/React-Node-Starter)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@boriscy](https://github.com/boriscy)/[**atixtutorextjs**](https://github.com/boriscy/atixtutorextjs)",
+              "Tutor de ExtJS para la revistar ATIX",
+              "[:arrow_upper_right:](atixtutorextjs)"
+            ],
+            [
+              "2",
+              "[@boriscy](https://github.com/boriscy)/[**gaspet**](https://github.com/boriscy/gaspet)",
+              "Gapet",
+              ""
+            ],
+            [
+              "2",
+              "[@Veuge](https://github.com/Veuge)/[**little_projects**](https://github.com/Veuge/little_projects)",
+              "Practicing Javascript, too late",
+              ""
+            ],
+            [
+              "2",
+              "[@kapit4n](https://github.com/kapit4n)/[**lb-school-events**](https://github.com/kapit4n/lb-school-events)",
+              "School events API",
+              ""
+            ],
+            [
+              "2",
+              "[@wolf-mtwo](https://github.com/wolf-mtwo)/[**node-rest-es6**](https://github.com/wolf-mtwo/node-rest-es6)",
+              "A simple seed for web applications, just backend stack, in es6",
+              ""
+            ],
+            [
+              "2",
+              "[@kapit4n](https://github.com/kapit4n)/[**mockupero-api**](https://github.com/kapit4n/mockupero-api)",
+              "REST full api to manage mockups",
+              ""
+            ],
+            [
+              "2",
+              "[@boriscy](https://github.com/boriscy)/[**motoEx**](https://github.com/boriscy/motoEx)",
+              "Herramienta fácil para importar de datos desde hoja electrónicas",
+              "[:arrow_upper_right:](http://boriscy.github.com/motoEx/)"
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
