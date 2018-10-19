@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[Haskell](#haskell)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -772,6 +773,27 @@
               "2",
               "[@devcarlos](https://github.com/devcarlos)/[**MyClockAlarm**](https://github.com/devcarlos/MyClockAlarm)",
               "MyClockAlarm is an iOS (iPhone and iPad) based clock alarm with retina display support ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@DanielTorres1](https://github.com/DanielTorres1)/[**Webhacks**](https://github.com/DanielTorres1/Webhacks)",
+              "",
               ""
             ]
           ]
