@@ -58,7 +58,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1232,6 +1233,27 @@
               "2",
               "[@carakan](https://github.com/carakan)/[**contacts**](https://github.com/carakan/contacts)",
               "Simple site for manage contacts.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@Charles-Hatched](https://github.com/Charles-Hatched)/[**git-alias-bash**](https://github.com/Charles-Hatched/git-alias-bash)",
+              "GIT Aliases Bash",
               ""
             ]
           ]
