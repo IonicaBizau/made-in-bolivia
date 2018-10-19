@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -794,6 +795,159 @@
               "2",
               "[@DanielTorres1](https://github.com/DanielTorres1)/[**Webhacks**](https://github.com/DanielTorres1/Webhacks)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "34",
+              "[@edsonmgoz](https://github.com/edsonmgoz)/[**asignaciones**](https://github.com/edsonmgoz/asignaciones)",
+              "Proyecto de asignacion de tareas desarrollado durante el curso del framework Symfony 2",
+              ""
+            ],
+            [
+              "14",
+              "[@edsonmgoz](https://github.com/edsonmgoz)/[**restaurante**](https://github.com/edsonmgoz/restaurante)",
+              "Repositorio oficial del proyecto Restaurante desarrollado en el Curso de CakePHP",
+              ""
+            ],
+            [
+              "13",
+              "[@kplian](https://github.com/kplian)/[**pxp**](https://github.com/kplian/pxp)",
+              "Framework PXP for agile web development",
+              ""
+            ],
+            [
+              "11",
+              "[@seguce92](https://github.com/seguce92)/[**fullcalendar-laravel**](https://github.com/seguce92/fullcalendar-laravel)",
+              "Implements bootstrap fullcalendar with laravel 5.3",
+              ""
+            ],
+            [
+              "7",
+              "[@kplian](https://github.com/kplian)/[**sis_contabilidad**](https://github.com/kplian/sis_contabilidad)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@kplian](https://github.com/kplian)/[**GEMA-KPLIAN**](https://github.com/kplian/GEMA-KPLIAN)",
+              "SISTEMA DE MANTENIMIENTO- KPLIAN",
+              ""
+            ],
+            [
+              "5",
+              "[@JDavidVR](https://github.com/JDavidVR)/[**magento2_david_es_mx**](https://github.com/JDavidVR/magento2_david_es_mx)",
+              "Magento 2 language pack latin spanish es_MX",
+              ""
+            ],
+            [
+              "5",
+              "[@edsonmgoz](https://github.com/edsonmgoz)/[**pocake**](https://github.com/edsonmgoz/pocake)",
+              "Aplicación para guardar enlaces preferidos desarrollado en el curso de CakePHP 3",
+              ""
+            ],
+            [
+              "5",
+              "[@yracnet](https://github.com/yracnet)/[**php-sms-3g**](https://github.com/yracnet/php-sms-3g)",
+              "Send Sms in PHP with modem 3G ",
+              ""
+            ],
+            [
+              "4",
+              "[@edsonmgoz](https://github.com/edsonmgoz)/[**curso-cakephp**](https://github.com/edsonmgoz/curso-cakephp)",
+              "Curso de desarrollo de aplicaciones web con el framework CakePHP",
+              ""
+            ],
+            [
+              "4",
+              "[@kplian](https://github.com/kplian)/[**sis_ventas_facturaci…**](https://github.com/kplian/sis_ventas_facturacion)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@kplian](https://github.com/kplian)/[**sis_operman**](https://github.com/kplian/sis_operman)",
+              "Sistema de Operaciones y Mantenimiento",
+              ""
+            ],
+            [
+              "4",
+              "[@kplian](https://github.com/kplian)/[**sis_adquisiciones**](https://github.com/kplian/sis_adquisiciones)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@kplian](https://github.com/kplian)/[**sis_kactivos_fijos**](https://github.com/kplian/sis_kactivos_fijos)",
+              "Gestión de Activos Fijos Kplian",
+              ""
+            ],
+            [
+              "3",
+              "[@jorgenils](https://github.com/jorgenils)/[**zend-framework**](https://github.com/jorgenils/zend-framework)",
+              "A git clone of the popular PHP framwork Zend Framework",
+              "[:arrow_upper_right:](http://framework.zend.com)"
+            ],
+            [
+              "3",
+              "[@kplian](https://github.com/kplian)/[**sis_cuenta_documenta…**](https://github.com/kplian/sis_cuenta_documentada)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@kplian](https://github.com/kplian)/[**sis_almacenes**](https://github.com/kplian/sis_almacenes)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@kplian](https://github.com/kplian)/[**sis_tesoreria**](https://github.com/kplian/sis_tesoreria)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@rensi4rn](https://github.com/rensi4rn)/[**CCBADMIN**](https://github.com/rensi4rn/CCBADMIN)",
+              "sistema de administración de la CCB",
+              ""
+            ],
+            [
+              "3",
+              "[@kplian](https://github.com/kplian)/[**sis_presupuestos**](https://github.com/kplian/sis_presupuestos)",
+              "PRE",
+              ""
+            ],
+            [
+              "2",
+              "[@ronytic](https://github.com/ronytic)/[**colegio**](https://github.com/ronytic/colegio)",
+              "Sistema de Académico Administrativo de Colegios - Bolivia",
+              ""
+            ],
+            [
+              "2",
+              "[@kplian](https://github.com/kplian)/[**sis_costos**](https://github.com/kplian/sis_costos)",
+              "sistema de costeo , vaintegrado con sis_contabilidad",
+              ""
+            ],
+            [
+              "2",
+              "[@kplian](https://github.com/kplian)/[**sis_empresas**](https://github.com/kplian/sis_empresas)",
+              "sistema para envio de publicidad",
               ""
             ]
           ]
