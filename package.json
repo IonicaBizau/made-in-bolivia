@@ -59,7 +59,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -1254,6 +1255,33 @@
               "2",
               "[@Charles-Hatched](https://github.com/Charles-Hatched)/[**git-alias-bash**](https://github.com/Charles-Hatched/git-alias-bash)",
               "GIT Aliases Bash",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@dev123dev123](https://github.com/dev123dev123)/[**JSQMessagesViewContr…**](https://github.com/dev123dev123/JSQMessagesViewControllerExample)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@dev123dev123](https://github.com/dev123dev123)/[**Ax**](https://github.com/dev123dev123/Ax)",
+              "An organized way to control the flow of asynchronous executions in Swift.",
               ""
             ]
           ]
