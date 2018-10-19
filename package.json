@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -669,6 +670,45 @@
               "[@alphaonex86](https://github.com/alphaonex86)/[**OpenTradingPlatform**](https://github.com/alphaonex86/OpenTradingPlatform)",
               "Open trading platform",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "23",
+              "[@carliros](https://github.com/carliros)/[**Simple-San-Simon-Fun…**](https://github.com/carliros/Simple-San-Simon-Functional-Web-Browser)",
+              "A Web Browser written with Haskell",
+              "[:arrow_upper_right:](http://hsbrowser.wordpress.com/3s-functional-web-browser/)"
+            ],
+            [
+              "4",
+              "[@carliros](https://github.com/carliros)/[**Selector**](https://github.com/carliros/Selector)",
+              "Tesiting selectors of CSS",
+              "[:arrow_upper_right:](http://hsbrowser.wordpress.com/selector-project/)"
+            ],
+            [
+              "2",
+              "[@carliros](https://github.com/carliros)/[**dbjava**](https://github.com/carliros/dbjava)",
+              "A serializer and deserializer of the Jvm classfile format.",
+              ""
+            ],
+            [
+              "2",
+              "[@carliros](https://github.com/carliros)/[**Tree-Box**](https://github.com/carliros/Tree-Box)",
+              "Tree-Box Css",
+              "[:arrow_upper_right:](http://hsbrowser.wordpress.com/tree-box-css-project/)"
             ]
           ]
         }
