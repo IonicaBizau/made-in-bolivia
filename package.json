@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -574,6 +575,99 @@
               "2",
               "[@hiro2233](https://github.com/hiro2233)/[**tachus_pi**](https://github.com/hiro2233/tachus_pi)",
               "Tachus PI compute pi world record. Source from https://bellard.org/pi/pi2700e9/tpi.html",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "99",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**Ultracopier**](https://github.com/alphaonex86/Ultracopier)",
+              "Ultracopier is free and open source software licensed under GPL3 that acts as a replacement for files copy dialogs.Main features include: play/pause, speed limitation, on-error resume, error/collision management ...",
+              "[:arrow_upper_right:](http://ultracopier.first-world.info/)"
+            ],
+            [
+              "40",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**CatchChallenger**](https://github.com/alphaonex86/CatchChallenger)",
+              "CatchChallenger openSource oldschool MMORPG",
+              "[:arrow_upper_right:](http://catchchallenger.first-world.info/)"
+            ],
+            [
+              "9",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**debug-devel**](https://github.com/alphaonex86/debug-devel)",
+              "Testing tools (binary/text) for RS232, QTcpSocket, QLocalSocket",
+              ""
+            ],
+            [
+              "7",
+              "[@binouz](https://github.com/binouz)/[**node-skia**](https://github.com/binouz/node-skia)",
+              "Skia based renderer for nodejs with EGL",
+              ""
+            ],
+            [
+              "5",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**Copy-handler**](https://github.com/alphaonex86/Copy-handler)",
+              "Like ultracopier",
+              "[:arrow_upper_right:](http://ultracopier.first-world.info/copy-handler.html)"
+            ],
+            [
+              "4",
+              "[@alexpizarroj](https://github.com/alexpizarroj)/[**competitive-programm…**](https://github.com/alexpizarroj/competitive-programming)",
+              "My solutions to competitive programming exercises.",
+              ""
+            ],
+            [
+              "4",
+              "[@jhtan](https://github.com/jhtan)/[**cp**](https://github.com/jhtan/cp)",
+              "Competitive Programming",
+              ""
+            ],
+            [
+              "4",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**EasyMiner**](https://github.com/alphaonex86/EasyMiner)",
+              "EasyMiner",
+              ""
+            ],
+            [
+              "3",
+              "[@alexpizarroj](https://github.com/alexpizarroj)/[**acm-icpc-trd**](https://github.com/alexpizarroj/acm-icpc-trd)",
+              "ACM-ICPC Team Reference Document",
+              ""
+            ],
+            [
+              "3",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**Catchcopy**](https://github.com/alphaonex86/Catchcopy)",
+              "To send/receive copy/move list",
+              ""
+            ],
+            [
+              "3",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**QtSignalsSlotsBenchm…**](https://github.com/alphaonex86/QtSignalsSlotsBenchmark)",
+              "QtSignalsSlotsBenchmark",
+              ""
+            ],
+            [
+              "2",
+              "[@ebasconp](https://github.com/ebasconp)/[**classeine**](https://github.com/ebasconp/classeine)",
+              "classeine is a C++ framework implementing several tools to code and run native RESTful apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@alphaonex86](https://github.com/alphaonex86)/[**OpenTradingPlatform**](https://github.com/alphaonex86/OpenTradingPlatform)",
+              "Open trading platform",
               ""
             ]
           ]
