@@ -73,6 +73,7 @@
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
+ | 19899 | [@balena-io](https://github.com/balena-io)/[**etcher**](https://github.com/balena-io/etcher) | Etcher is a powerful OS image flasher built with web technologies | [:arrow_upper_right:](https://www.balena.io/etcher/)
  | 13 | [@boriscy](https://github.com/boriscy)/[**enano**](https://github.com/boriscy/enano) | Enano is a small CMS written in Ext JS and Ruby on Rails for the backend with and cool FileManager |
 11 | [@boriscy](https://github.com/boriscy)/[**backbone-rivetsjs**](https://github.com/boriscy/backbone-rivetsjs) | Two way data binding example for Backbone.js with rivets.js | [:arrow_upper_right:](http://boriscy.github.com/backbone-rivetsjs)
 9 | [@boriscy](https://github.com/boriscy)/[**grider**](https://github.com/boriscy/grider) | jQuery plugin to enable calculations and modifications in a table with data input | [:arrow_upper_right:](http://boriscy.github.com/grider/)

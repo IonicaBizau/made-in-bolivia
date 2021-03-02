@@ -76,6 +76,12 @@
           ],
           "rows": [
             [
+              "19899",
+              "[@balena-io](https://github.com/balena-io)/[**etcher**](https://github.com/balena-io/etcher)",
+              "Etcher is a powerful OS image flasher built with web technologies",
+              "[:arrow_upper_right:](https://www.balena.io/etcher/)"
+            ],
+            [
               "13",
               "[@boriscy](https://github.com/boriscy)/[**enano**](https://github.com/boriscy/enano)",
               "Enano is a small CMS written in Ext JS and Ruby on Rails for the backend with and cool FileManager",
